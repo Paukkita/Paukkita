@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mí
 - 👀 Apasionado por el mundo de la programación, especialmente el **frontend**.
-- 💻 Actualmente aprendiendo **Vue.js**, profundizando en **Spring Boot** y aprendiendo PHP.
+- 💻 Actualmente aprendiendo **Vue.js**, PHP y estoy profundizando en **Spring Boot**.
 - 🎯 Siempre buscando mejorar mis habilidades y aprender nuevas tecnologías.
 
 ## 📫 Contáctame
